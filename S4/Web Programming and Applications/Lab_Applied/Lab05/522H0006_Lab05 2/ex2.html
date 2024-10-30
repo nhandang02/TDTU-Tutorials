@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Password Strength Checker</title>
+  <style>
+    input[type="password"] {
+      width: 300px;
+      padding: 10px;
+      font-size: 16px;
+    }
+
+    .criteria {
+      margin-bottom: 10px;
+    }
+
+    .criteria span {
+      display: inline-block;
+      width: 100px;
+    }
+
+    .strength {
+      margin-top: 20px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+
+    .weak {
+      background-color: #ff0000;
+      color: #ffffff;
+    }
+
+    .strong {
+      background-color: #00ff00;
+      color: #000000;
+    }
+
+    button {
+      margin-left: 10px;
+      padding: 5px 10px;
+      font-size: 14px;
+    }
+  </style>
+  <script>
+    function checkPasswordStrength() {
+      var password = document.getElementById("password").value;
+
+      var lengthCriteria = password.length >= 8;
+      var uppercaseCriteria = /[A-Z]/.test(password);
+      var lowercaseCriteria = /[a-z]/.test(password);
+      var numberCriteria = /[0-9]/.test(password);
+
+      document.getElementById("length").style.backgroundColor = lengthCriteria ? "#00ff00" : "#ff0000";
+      document.getElementById("uppercase").style.backgroundColor = uppercaseCriteria ? "#00ff00" : "#ff0000";
+      document.getElementById("lowercase").style.backgroundColor = lowercaseCriteria ? "#00ff00" : "#ff0000";
+      document.getElementById("number").style.backgroundColor = numberCriteria ? "#00ff00" : "#ff0000";
+
+      var strengthText = "Weak";
+      var strengthClass = "weak";
+
+      if (lengthCriteria && uppercaseCriteria && lowercaseCriteria && numberCriteria) {
+        strengthText = "Strong";
+        strengthClass = "strong";
+      }
+
+      document.getElementById("strength").textContent = strengthText;
+      document.getElementById("strength").className = strengthClass;
+    }
+
+    function togglePasswordVisibility() {
+      var passwordInput = document.getElementById("password");
+      var toggleButton = document.getElementById("toggleButton");
+
+      if (passwordInput.type === "password") {
+        passwordInput.type = "text";
+        toggleButton.textContent = "Hide";
+      } else {
+        passwordInput.type = "password";
+        toggleButton.textContent = "Show";
+      }
+    }
+  </script>
+</head>
+<body>
+  <h1>Password Strength Checker</h1>
+  <input type="password" id="password" onkeyup="checkPasswordStrength()" placeholder="Enter your password">
+  <button id="toggleButton" onclick="togglePasswordVisibility()">Show</button>
+
+  <div class="criteria">
+    <span id="length">Length (>= 8)</span>
+    <span id="uppercase">Uppercase</span>
+    <span id="lowercase">Lowercase</span>
+    <span id="number">Number</span>
+  </div>
+
+  <div class="strength">Strength: <span id="strength" class="weak">Weak</span></div>
+</body>
+</html>

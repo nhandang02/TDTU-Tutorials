@@ -1,0 +1,264 @@
+100 -16 -15 200 Sun
+
+ 
+Input: 370 5 9 100 Sun
+Output: 2 6 12.296
+Input: 1000 2 5 200 Sun
+Output: 190 0 340.000
+
+Input: 284 -5 -6 220 Sun (0 0 284.000)
+Output: 0 0 298.000
+
+Input: 190 6 4 5 Sun
+Output: 0 0 199.000
+
+Input: 450 -10 20 5 Sun 
+Output: 0 1 135.841
+
+Input: 499 10 5 7 Sun
+Output: 0 0 548.000
+Input: 105 5 5 123 Sun
+Output: 4 0 15.000 
+Input: 504 6 -2 100 Sun
+Output: 14 0 25.000
+
+Input: 20 0 0 19 Sun (0 0 20.000)
+Output: 0 0 22.000
+
+Input: 526 0 9 100 Sun (0 8 17.062)
+Output: 0 8 43.062
+Input: 1000 7 0 500 Sun
+Output: -1 -1 1000.000
+
+Input: 1000 -4 -9 10 Sun  
+Output: 0 0 1000.000
+
+Input: -1 4 9 100 Sun
+Output: -1 -1 -1.000
+Input: 1000 4 4 300 Sun
+Output: 0 91 6.460 
+Input: 999 -1 12 50 Sun
+Output: 0 8 94.221
+Input: 100 -16 -15 200 Sun (0 0 100.000) 
+Output: 0 0 105.000
+Input: 860 20 20 100 Sun
+Output: 2 0 146.000 
+Input: 304 10 10 20 Sun
+Output: 0 4 34.841
+
+
+
+
+
+
+
+
+
+
+
+Input: 370 5 9 100 Sun
+Output: 2 6 12.296
+Input: 1000 2 5 200 Sun
+Output: 190 0 340.000
+
+Input: 284 -5 -6 220 Sun   (0 0 284.000) fsfsdfsdfsd
+Output: 0 0 298.000
+
+Input: 190 6 4 5 Sun
+Output: 0 0 199.000
+Input: 450 -10 20 5 Sun adfdfdsfsdfsdfsd   (0 0 -2147483648.000)
+Output: 0 0 472.000
+Input: 499 10 5 7 Sun
+Output: 0 0 548.000
+Input: 105 5 5 123 Sun
+Output: 4 0 15.000 
+Input: 504 6 -2 100 Sun
+Output: 14 0 25.000
+ Input: 20 0 0 19 Sun
+Output: 0 0 22.000
+Input: 526 0 9 100 Sun
+Output: 0 8 43.062
+Input: 1000 7 0 500 Sun  
+Output: -1 -1 1000.000
+
+Input: 1000 -4 -9 10 Sun  sfsdfsdfdsfd
+Output: 0 0 1050.000
+
+Input: -1 4 9 100 Sun
+Output: -1 -1 -1.000
+Input: 1000 4 4 300 Sun
+Output: 0 91 6.460 
+Input: 999 -1 12 50 Sun    (0 8 94.221)
+Output: 0 9 30.124
+Input: 100 -16 -15 200 Sun   asdasdsadasdasdas
+Output: 0 0 105.000
+Input: 860 20 20 100 Sun
+Output: 2 0 146.000 
+Input: 304 10 10 20 Sun
+Output: 0 4 34.841
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cloud
+Input: 370 5 9 100 Cloud
+Output: 2 5 1.914
+Input: 1000 2 5 200 Cloud
+Output: 4 50 2.252
+Input: 284 -5 -6 220 Cloud
+Output: Input: 190 6 4 5 Cloud
+Output: 0 5 127.168
+Input: 450 -10 20 5 Cloud
+Output: 0 1 135.841
+Input: 499 10 5 7 Cloud
+Output: 0 7 361.555
+Input: 105 5 5 123 Cloud
+Output: 0 5 6.825
+Input: 900 20 20 6 Cloud
+Output: 0 2 271.681
+Input: 300 0 0 180 Cloud
+Output: 0 0 300.000
+Input: 342 9 5 100 Cloud
+Output: 0 17 8.206 
+Input: 606 12 6 159 Cloud
+Output: 0 21 12.239
+Input:  100 -1 10 5 Cloud
+Output: 0 1 21.460
+Input: 590 33 -1 100 Cloud
+Output: 0 0 590.000
+Input: 800 12 20 159 Cloud
+Output: 1 2 27.681
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ Rain
+Input: 1000 3 9 300 Rain
+Output: 19 13 1.976
+Input: 599 10 2 20 Rain
+Output: 5 15 51.876
+Input: 320 4 15 150 Rain
+Output: 8 1 15.285
+Input: 1000 4 4 300 Rain
+Output: 35 35 0.177
+Input: 999 -1 12 50 Rain
+Output: 0 8 94.221
+Input: 100 -16 -15 200 Rain
+Output: 0 0 100.000
+Input: 860 20 20 100 Rain
+Output: 1 1 145.841
+Input: 304 10 10 20 Rain
+Output: 2 1 25.460
+Input: 2000 0 9 100 Rain
+Output: -1 -1 2000.000
+Input: 540 9 8 0 Rain
+Output: -1 -1 540.000
+Input: 765 0 0 300 Rain
+Output: 0 0 765.000
+Input: 887 1 1 300 Rain
+Output: 150 150 619.190
+Input: 1000 20 20 10 Rain
+Output: 1 1 285.841
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Input: 300 9 5 7 Wind
+Output: 3 2 17.730
+Input: 526 2 1 100 Wind
+Output: 100 0 126.000 
+Input: 1000 5 2 200 Wind
+Output: 40 0 0.000
+Input: 1000 15 4 300 Wind
+Output: 4 7 12.035
+Input: 5 1 2 10 Wind aadfdfafddfadfadfda
+Output: 1 1 0.215
+Input: 8 2 1 301 Wind
+Output: -1 -1 8.000
+Input: 942 20 1 50 Wind
+Output: 2 48 104.301
+Input: 200 15 3 100 Wind
+Output: 0 28 2.080
+Input: 1000 -5 3 100 Wind
+Output: 0 100 293.142
+Input: 504 6 -2 100 Wind
+Output: 14 0 0.000
+ Input: 20 0 0 19 Wind
+Output: 0 0 20.000
+Input: 526 0 9 100 Wind
+Output: 0 8 17.062
+Input: 1000 7 0 500 Wind
+Output: -1 -1 1000.000
+Input: 1000 -4 -9 10 Wind
+Output: 0 0 1000.000
+Input: -1 4 9 100 Wind
+Output: -1 -1 -1.000

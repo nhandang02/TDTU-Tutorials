@@ -1,0 +1,15 @@
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\bin\Debug\net6.0\DAL.dll
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\bin\Debug\net6.0\DTO.dll
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\bin\Debug\net6.0\DTO.pdb
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\obj\Debug\net6.0\DAL.dll
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Documents\TDTU\Term4\CongNghePhanMem\Lab\Lab09\DAL\obj\Debug\net6.0\ref\DAL.dll

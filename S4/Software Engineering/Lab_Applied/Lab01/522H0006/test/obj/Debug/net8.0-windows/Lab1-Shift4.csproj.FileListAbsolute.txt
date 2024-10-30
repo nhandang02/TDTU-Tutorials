@@ -1,0 +1,16 @@
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\bin\Debug\net8.0-windows\Lab1-Shift4.exe
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\bin\Debug\net8.0-windows\Lab1-Shift4.deps.json
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\bin\Debug\net8.0-windows\Lab1-Shift4.runtimeconfig.json
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\bin\Debug\net8.0-windows\Lab1-Shift4.dll
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\bin\Debug\net8.0-windows\Lab1-Shift4.pdb
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\test.Form1.resources
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\Lab1-Shift4.csproj.GenerateResource.cache
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\Lab1-Shift4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\Lab1-Shift4.AssemblyInfoInputs.cache
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\Lab1-Shift4.AssemblyInfo.cs
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\Lab1-Shift4.csproj.CoreCompileInputs.cache
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\Lab1-Shift4.dll
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\refint\Lab1-Shift4.dll
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\Lab1-Shift4.pdb
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\Lab1-Shift4.genruntimeconfig.cache
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\ref\Lab1-Shift4.dll

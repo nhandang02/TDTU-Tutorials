@@ -1,0 +1,17 @@
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\bin\Debug\net8.0\BUS.deps.json
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\bin\Debug\net8.0\BUS.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\bin\Debug\net8.0\BUS.pdb
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\bin\Debug\net8.0\DAL.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\bin\Debug\net8.0\DTO.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\bin\Debug\net8.0\DAL.pdb
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\bin\Debug\net8.0\DTO.pdb
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\obj\Debug\net8.0\BUS.csproj.AssemblyReference.cache
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\obj\Debug\net8.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\obj\Debug\net8.0\BUS.AssemblyInfoInputs.cache
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\obj\Debug\net8.0\BUS.AssemblyInfo.cs
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\obj\Debug\net8.0\BUS.csproj.CoreCompileInputs.cache
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\obj\Debug\net8.0\BUS.csproj.CopyComplete
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\obj\Debug\net8.0\BUS.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\obj\Debug\net8.0\refint\BUS.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\obj\Debug\net8.0\BUS.pdb
+C:\Tutorial\CNPM\Lab_Applied\Lab09\Practice\BUS\obj\Debug\net8.0\ref\BUS.dll

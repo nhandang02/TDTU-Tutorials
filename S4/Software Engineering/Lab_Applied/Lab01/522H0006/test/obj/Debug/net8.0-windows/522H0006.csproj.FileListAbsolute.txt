@@ -1,0 +1,32 @@
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\bin\Debug\net8.0-windows\522H0006.exe
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\bin\Debug\net8.0-windows\522H0006.deps.json
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\bin\Debug\net8.0-windows\522H0006.runtimeconfig.json
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\bin\Debug\net8.0-windows\522H0006.dll
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\bin\Debug\net8.0-windows\522H0006.pdb
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\obj\Debug\net8.0-windows\test.Form1.resources
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\obj\Debug\net8.0-windows\522H0006.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\obj\Debug\net8.0-windows\522H0006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\obj\Debug\net8.0-windows\522H0006.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\obj\Debug\net8.0-windows\522H0006.AssemblyInfo.cs
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\obj\Debug\net8.0-windows\522H0006.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\obj\Debug\net8.0-windows\522H0006.dll
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\obj\Debug\net8.0-windows\refint\522H0006.dll
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\obj\Debug\net8.0-windows\522H0006.pdb
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\obj\Debug\net8.0-windows\522H0006.genruntimeconfig.cache
+C:\Users\Acer\Desktop\nam hai\CNPM\abc\test\obj\Debug\net8.0-windows\ref\522H0006.dll
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\bin\Debug\net8.0-windows\522H0006.exe
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\bin\Debug\net8.0-windows\522H0006.deps.json
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\bin\Debug\net8.0-windows\522H0006.runtimeconfig.json
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\bin\Debug\net8.0-windows\522H0006.dll
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\bin\Debug\net8.0-windows\522H0006.pdb
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\test.Form1.resources
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\522H0006.csproj.GenerateResource.cache
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\522H0006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\522H0006.AssemblyInfoInputs.cache
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\522H0006.AssemblyInfo.cs
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\522H0006.csproj.CoreCompileInputs.cache
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\522H0006.dll
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\refint\522H0006.dll
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\522H0006.pdb
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\522H0006.genruntimeconfig.cache
+C:\Tutorial\CNPM\Lab_Applied\522H0006\test\obj\Debug\net8.0-windows\ref\522H0006.dll

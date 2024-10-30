@@ -1,0 +1,52 @@
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Acer\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Tutorial\CNPM\Lab_Applied\Lab05\522H0016 (1)\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll

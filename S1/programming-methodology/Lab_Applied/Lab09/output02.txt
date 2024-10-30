@@ -1,0 +1,5 @@
+Length of 1 string: 14
+Length of 2 string: 7
+Length of 3 string: 7
+Length of 4 string: 11
+Length of 5 string: 13

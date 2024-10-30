@@ -1,0 +1,15 @@
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\bin\Debug\net8.0\DAL.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\bin\Debug\net8.0\DTO.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\bin\Debug\net8.0\DTO.pdb
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\obj\Debug\net8.0\DAL.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Tutorial\CNPM\Lab_Applied\Lab08\Lab08_Bai01_2\DAL\obj\Debug\net8.0\ref\DAL.dll

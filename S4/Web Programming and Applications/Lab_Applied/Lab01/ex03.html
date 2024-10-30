@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table{
+            margin: auto;
+            border: 1px solid;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="https://web-503073-wiolshzi6q-uc.a.run.app/lab01/register"/>
+        <table>
+            <tr>
+                <td>Your Name </td>
+                <td>
+                    <input type="text" name="name" placeholder="Full Name">
+                </td>
+            </tr>
+            <tr>
+                <td>Email Address</td>
+                <td>
+                    <input type="email" name="email" placeholder="Email">
+                </td>
+            </tr>
+            <tr>
+                <td>Birthday</td>
+                <td>
+                    <input type="date" name="dob" placeholder="dd-mm-yyyy">
+                </td>
+            </tr>
+            <tr>
+                <td>Birthtime</td>
+                <td>
+                    <input type="time" name="time">
+                </td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td>
+                    <input type="radio" id="male" name="gender" value="Male">
+                    <label for="male">Male</label>
+                    <input type="radio" id="female" name="gender" value="Female">
+                    <label for="female">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <td>From</td>
+                <td>
+                    <select>
+                        <option value="0">Select a contry:</option>
+                        <option value="1">Viet Nam</option>
+                        <option value="2">Laos</option>
+                        <option value="3">Campuchia</option>
+                        <option value="4">Thai Land</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Favorite IDE</td>
+                <td>
+                    <input type="checkbox" id="favoriteIDE" name="vscode" value="Visual Studio Code">
+                    <label for="vscode"> Visual Studio Code </label><br>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="checkbox" id="favoriteIDE" name="subtext" value="Sublime Text">
+                    <label for="subText"> Sublime Text </label><br>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="checkbox" id="favoriteIDE" name="eclipse" value="Eclipse">
+                    <label for="eclipse"> Eclipse </label><br> 
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="checkbox" id="favoriteIDE" name="atom" value="Atom">
+                    <label for="atom"> Atom </label><br>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="checkbox" id="favoriteIDE" name="intelij" value="Intelij Idea">
+                    <label for="intelij"> Intelij Idea </label><br>
+                </td>
+            </tr>
+            <tr>
+                <td> <label for="score"> TOIEC Score </label> </td>
+                <td>
+                    <input type="range" id="score" name="score" min="5" max="990">
+                </td>
+            </tr>
+            <tr>
+                <td>Message</td>
+                <td>
+                    <textarea name="Message" rows="5" cols="14"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="button" value="Register">
+                    <input type="button" value="Again">
+                </td>
+            </tr>
+    
+        </table>
+    </form>
+</body>
+</html>
